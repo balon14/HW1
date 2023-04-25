@@ -1,4 +1,0 @@
-YolosFeatureExtractor
-YolosForObjectDetection
-Image
-requests
