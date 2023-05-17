@@ -5,7 +5,7 @@ import streamlit as st
 
 
 # Заголовок страницы
-st.title("Object detection Web App")
+st.title("Object detection YOLOS model Web App")
 
 # Получение имени пользователя и вывод приветствия
 name = st.text_input("Enter your name", "")
