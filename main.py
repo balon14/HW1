@@ -8,8 +8,8 @@ import streamlit as st
 st.title("A Simple Streamlit Web App")
 
 # Получение имени пользователя и вывод приветствия
-text = st.text_input("Enter your name", "")
-st.write(f"Hello {text}!")
+name = st.text_input("Enter your name", "")
+st.write(f"Hello {name}!")
 
 
 url = 'http://images.cocodataset.org/val2017/000000039769.jpg'
