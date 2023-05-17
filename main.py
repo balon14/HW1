@@ -5,7 +5,7 @@ import streamlit as st
 
 
 # Заголовок страницы
-st.title("A Simple Streamlit Web App")
+st.title("Object detection Web App")
 
 # Получение имени пользователя и вывод приветствия
 text = st.text_input("Enter your name", "")
